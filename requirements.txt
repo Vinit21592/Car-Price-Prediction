@@ -11,9 +11,6 @@ Jinja2==3.0.1
 joblib
 jsonify==0.5
 MarkupSafe==2.0.1
-mkl-fft
-mkl-random
-mkl-service
 numpy==1.21.1
 requests==2.26.0
 scikit-learn==0.24.2
