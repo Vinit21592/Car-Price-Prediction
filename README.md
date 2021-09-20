@@ -14,3 +14,7 @@ The following approach explains the project lifecycle.
 • Feature Engineering : Cleaning the data to select and transform the most relevant variables from raw data.
 
 • Model Building : For model building Random Forest Regressor algorithm is used to predict the target variable.
+
+• Tuning : Performed Hyperparameter tuning using randomizedSearchCV.
+
+• Deployment : The project is deployed using Flask on Heroku.
