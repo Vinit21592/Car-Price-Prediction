@@ -23,7 +23,10 @@ The following approach explains the project lifecycle.
 Link : https://car-price-prediction-a.herokuapp.com/
 
 ### Technologies Used:
-• Jupyter Notebook is used for IDE.
+• Jupyter Notebook is used for IDE. 
+
 • For creating webapp Flask framework is used.
+
 • Front End is developed using HTML, CSS.
+
 • Heroku is used for Model Deployment.
